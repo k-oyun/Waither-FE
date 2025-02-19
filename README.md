@@ -4,6 +4,10 @@
 # Waither<img src="https://github.com/WaitherTeam/Waither-BE/assets/98632435/0df2a67b-7ebf-460b-9d54-574b5650d734" align=left width=120>
 
 > 나만의 기상 비서, Waither
+<br />
+
+#### Weather + Waiter(날씨 비서)의 합성어로, 사용자의 설정을 바탕으로 맞춤형 날씨 정보와 알림을 제공하는 앱 서비스입니다.
+#### 기존 날씨 앱과 달리, 단순한 예보가 아닌 사용자별 맞춤형 정보와 개인화된 알림을 제공하여 차별화된 경험을 선사합니다.
 
 <br />
 
